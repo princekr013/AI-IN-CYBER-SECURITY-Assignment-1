@@ -1,4 +1,4 @@
-# 🛡️ Cyber Threat Classifier
+1# 🛡️ Cyber Threat Classifier
 
 A simple **rule-based AI project** that detects common cyber threats in messages using keyword matching.
 
@@ -25,5 +25,5 @@ The project generates:
 - Category visualization
 - `Lab1_Final_Result.csv`
 
-RITIK SHARMA
-2401010058
+PRINCE KUMAR
+2401010198
